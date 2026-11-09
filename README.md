@@ -27,4 +27,4 @@ La asignatura introduce los fundamentos de la simulación: la construcción de m
 | APE 3 | Simulación de un sistema de líneas de espera M/M/1  | https://github.com/Zoe777zz/Practica_03_Simulacion_5A.git |
 | APE 4 | Simulacion del modelo SIR con Java y NetLogo  | https://github.com/Zoe777zz/Practica_04_Simulacion_5A.git |
 | APE 5 | Generador Congruencial Lineal (LCG)  | https://github.com/Zoe777zz/Practica_05_Simulacion_5A.git |
-| APE 6 | Generador Congruencial Lineal (LCG)  | https://github.com/Zoe777zz/Practica_06_Simulacion_5A.git |
+| APE 6 | Números pseudoaleatorios mediante Chi-cuadrado y Kolmogorov-Smirnov | https://github.com/Zoe777zz/Practica_06_Simulacion_5A.git |
